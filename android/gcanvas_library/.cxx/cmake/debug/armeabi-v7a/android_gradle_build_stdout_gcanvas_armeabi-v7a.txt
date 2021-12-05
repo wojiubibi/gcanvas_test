@@ -1,0 +1,2 @@
+ninja: Entering directory `E:\temp\gcanvas_test1\react-native-gcanvas\android\gcanvas_library\.cxx\cmake\debug\armeabi-v7a'
+ninja: no work to do.

@@ -1,0 +1,478 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: armeabi-v7a",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON E:\\temp\\gcanvas_test1\\react-native-gcanvas\\android\\gcanvas_library\\.cxx\\cmake\\release\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json E:\\temp\\gcanvas_test1\\react-native-gcanvas\\android\\gcanvas_library\\.cxx\\cmake\\release\\armeabi-v7a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file E:\\temp\\gcanvas_test1\\react-native-gcanvas\\android\\gcanvas_library\\.cxx\\cmake\\release\\armeabi-v7a\\build_command.txt, will remove stale json folder",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027E:\\temp\\gcanvas_test1\\react-native-gcanvas\\android\\gcanvas_library\\.cxx\\cmake\\release\\armeabi-v7a\u0027",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HE:\\temp\\gcanvas_test1\\react-native-gcanvas\n-DCMAKE_FIND_ROOT_PATH\u003dE:\\temp\\gcanvas_test1\\react-native-gcanvas\\android\\gcanvas_library\\.cxx\\cmake\\release\\prefab\\armeabi-v7a\\prefab\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003dC:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\temp\\gcanvas_test1\\react-native-gcanvas\\android\\gcanvas_library\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dE:\\temp\\gcanvas_test1\\react-native-gcanvas\\android\\gcanvas_library\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-DGCANVAS_WEEX\u003d1\n-BE:\\temp\\gcanvas_test1\\react-native-gcanvas\\android\\gcanvas_library\\.cxx\\cmake\\release\\armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"E:/temp/gcanvas_test1/react-native-gcanvas\",\n  \"buildDirectory\": \"E:/temp/gcanvas_test1/react-native-gcanvas/android/gcanvas_library/.cxx/cmake/release/armeabi-v7a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003dE:\\\\temp\\\\gcanvas_test1\\\\react-native-gcanvas\\\\android\\\\gcanvas_library\\\\.cxx\\\\cmake\\\\release\\\\prefab\\\\armeabi-v7a\\\\prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.4.7075529\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darmeabi-v7a\",\n    \"-DANDROID_NDK\\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.4.7075529\",\n    \"-DANDROID_PLATFORM\\u003dandroid-16\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darmeabi-v7a\",\n    \"-DCMAKE_ANDROID_NDK\\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.4.7075529\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dE:\\\\temp\\\\gcanvas_test1\\\\react-native-gcanvas\\\\android\\\\gcanvas_library\\\\build\\\\intermediates\\\\cmake\\\\release\\\\obj\\\\armeabi-v7a\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003dE:\\\\temp\\\\gcanvas_test1\\\\react-native-gcanvas\\\\android\\\\gcanvas_library\\\\build\\\\intermediates\\\\cmake\\\\release\\\\obj\\\\armeabi-v7a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d16\",\n    \"-DGCANVAS_WEEX\\u003d1\"\n  ]\n}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\",\"type\":\"message\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\",\"type\":\"message\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\",\"type\":\"message\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":334,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":950,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":500,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.4.7075529/build/cmake/platforms.cmake\",\"C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\"core/CMakeLists.txt\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"android/gcanvas_library/.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"android/gcanvas_library/.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"android/gcanvas_library/.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"android/gcanvas_library/.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.c\",\"android/gcanvas_library/.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.c\",\"android/gcanvas_library/.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.c\",\"android/gcanvas_library/.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"android/gcanvas_library/.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"android/gcanvas_library/.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"android/gcanvas_library/.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"android/gcanvas_library/.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"android/gcanvas_library/.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"E:/temp/gcanvas_test1/react-native-gcanvas\",\"type\":\"reply\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"E:/temp/gcanvas_test1/react-native-gcanvas/android/gcanvas_library/.cxx/cmake/release/armeabi-v7a\",\"name\":\"Project\",\"sourceDirectory\":\"E:/temp/gcanvas_test1/react-native-gcanvas\",\"targets\":[{\"artifacts\":[\"E:/temp/gcanvas_test1/react-native-gcanvas/android/gcanvas_library/build/intermediates/cmake/release/obj/armeabi-v7a/libgcanvas.so\"],\"buildDirectory\":\"E:/temp/gcanvas_test1/react-native-gcanvas/android/gcanvas_library/.cxx/cmake/release/armeabi-v7a/core\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security  -mfloat-abi\u003dsoftfp -mfpu\u003dneon -Oz -DNDEBUG  -fPIC  \",\"defines\":[\"ANDROID\",\"ARM_NEON_OPT\",\"FT2_BUILD_LIBRARY\",\"GCANVAS_WEEX\",\"gcanvas_EXPORTS\"],\"includePath\":[{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./src\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./src/gcanvas\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./src/support\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./src/platform/Android\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/png\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/png/thirdparty\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/memory\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/3d\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/3d/jsc\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/3d/util\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/3d/view\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/freetype-prebuilt/include\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"android/png/thirdparty/lodepng.c\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security   -std\u003dc++14 -fno-exceptions -fno-unwind-tables -Oz -DNDEBUG  -fPIC -fvisibility\u003dhidden  \",\"defines\":[\"ANDROID\",\"ARM_NEON_OPT\",\"FT2_BUILD_LIBRARY\",\"GCANVAS_WEEX\",\"gcanvas_EXPORTS\"],\"includePath\":[{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./src\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./src/gcanvas\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./src/support\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./src/platform/Android\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/png\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/png/thirdparty\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/memory\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/3d\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/3d/jsc\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/3d/util\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/3d/view\"},{\"path\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core/./android/freetype-prebuilt/include\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"android/png/LodePngCoder.cpp\",\"android/png/PngLoader.cpp\",\"android/3d/g3d_jni.cpp\",\"android/3d/gmanager.cpp\",\"android/3d/view/GcanvasWeexAndroid.cpp\",\"android/3d/view/grenderer.cpp\",\"android/GCanvasJNI.cpp\",\"android/GCanvasLinkNative.cpp\",\"android/elf_sym_reader.cpp\",\"android/manager/GCanvasManagerAndroid.cpp\",\"src/GCanvas.cpp\",\"src/GCanvasManager.cpp\",\"src/GCanvasWeex.cpp\",\"src/gcanvas/GCanvas2dContext.cpp\",\"src/gcanvas/GCanvasState.cpp\",\"src/gcanvas/GConvert.cpp\",\"src/gcanvas/GFontStyle.cpp\",\"src/gcanvas/GFrameBufferObject.cpp\",\"src/gcanvas/GGlyphCache.cpp\",\"src/gcanvas/GPath.cpp\",\"src/gcanvas/GShader.cpp\",\"src/gcanvas/GShaderManager.cpp\",\"src/gcanvas/GStrSeparator.cpp\",\"src/gcanvas/GTexture.cpp\",\"src/gcanvas/GTreemap.cpp\",\"src/gcanvas/GWebglContext.cpp\",\"src/platform/Android/GCanvas2DContextImpl.cpp\",\"src/platform/Android/GCanvas2DContextAndroid.cpp\",\"src/platform/Android/GCanvasAndroid.cpp\",\"src/platform/Android/GFont.cpp\",\"src/platform/Android/GFontCache.cpp\",\"src/platform/Android/GFontFamily.cpp\",\"src/platform/Android/GFontManagerAndroid.cpp\",\"src/platform/Android/GFontManagerImpl.cpp\",\"src/platform/Android/GFrameBufferObjectImpl.cpp\",\"src/platform/Android/GPreCompiledShaders.cpp\",\"src/platform/Android/GSystemFontInformation.cpp\",\"src/support/CharacterSet.cpp\",\"src/support/Encode.cpp\",\"src/support/FileUtils.cpp\",\"src/support/GLUtil.cpp\",\"src/support/Log.cpp\",\"src/support/Util.cpp\",\"src/support/Value.cpp\"]}],\"fullName\":\"libgcanvas.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--exclude-libs,libunwind.a -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-lGLESv1_CM -lGLESv2 -landroid -lEGL -latomic -ljnigraphics ..\\\\..\\\\..\\\\..\\\\..\\\\..\\\\..\\\\core\\\\android\\\\freetype-prebuilt\\\\libs\\\\armeabi-v7a\\\\libfreetype.so -llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"gcanvas\",\"sourceDirectory\":\"E:/temp/gcanvas_test1/react-native-gcanvas/core\",\"sysroot\":\"C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file E:\\temp\\gcanvas_test1\\react-native-gcanvas\\android\\gcanvas_library\\.cxx\\cmake\\release\\armeabi-v7a\\build_command.txt",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "E:\\temp\\gcanvas_test1\\react-native-gcanvas\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  }
+]

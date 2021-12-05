@@ -1,0 +1,2 @@
+E:\temp\gcanvas_test1\react-native-gcanvas\CMakeLists.txt
+E:\temp\gcanvas_test1\react-native-gcanvas\core\CMakeLists.txt

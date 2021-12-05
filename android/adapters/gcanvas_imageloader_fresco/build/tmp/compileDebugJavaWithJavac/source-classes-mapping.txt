@@ -1,0 +1,6 @@
+com/taobao/android/gcanvas/adapters/img/picasso/BuildConfig.java
+ com.taobao.android.gcanvas.adapters.img.picasso.BuildConfig
+com/taobao/gcanvas/adapters/img/impl/fresco/GCanvasFrescoImageLoader.java
+ com.taobao.gcanvas.adapters.img.impl.fresco.GCanvasFrescoImageLoader
+ com.taobao.gcanvas.adapters.img.impl.fresco.GCanvasFrescoImageLoader$ImageLoadRunnable
+ com.taobao.gcanvas.adapters.img.impl.fresco.GCanvasFrescoImageLoader$ImageLoadRunnable$1

@@ -1,0 +1,5 @@
+E:/temp/gcanvas_test1/react-native-gcanvas/android/gcanvas_library/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/temp/gcanvas_test1/react-native-gcanvas/android/gcanvas_library/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+E:/temp/gcanvas_test1/react-native-gcanvas/android/gcanvas_library/.cxx/cmake/debug/armeabi-v7a/core/CMakeFiles/gcanvas.dir
+E:/temp/gcanvas_test1/react-native-gcanvas/android/gcanvas_library/.cxx/cmake/debug/armeabi-v7a/core/CMakeFiles/edit_cache.dir
+E:/temp/gcanvas_test1/react-native-gcanvas/android/gcanvas_library/.cxx/cmake/debug/armeabi-v7a/core/CMakeFiles/rebuild_cache.dir

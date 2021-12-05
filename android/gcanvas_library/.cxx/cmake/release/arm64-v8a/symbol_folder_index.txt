@@ -1,0 +1,1 @@
+E:\temp\gcanvas_test1\react-native-gcanvas\android\gcanvas_library\build\intermediates\cmake\release\obj\arm64-v8a
