@@ -1,0 +1,86 @@
+{
+  "_from": "@flyskywhy/react-native-browser-polyfill@^1.0.1",
+  "_id": "@flyskywhy/react-native-browser-polyfill@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-vlsSfL8tuKOT5+20h2F9UhLbv18=",
+  "_location": "/@flyskywhy/react-native-browser-polyfill",
+  "_phantomChildren": {
+    "base64-js": "1.5.1",
+    "ieee754": "1.2.1"
+  },
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@flyskywhy/react-native-browser-polyfill@^1.0.1",
+    "name": "@flyskywhy/react-native-browser-polyfill",
+    "escapedName": "@flyskywhy%2freact-native-browser-polyfill",
+    "scope": "@flyskywhy",
+    "rawSpec": "^1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.1"
+  },
+  "_requiredBy": [
+    "/@flyskywhy/react-native-gcanvas"
+  ],
+  "_resolved": "https://registry.npmmirror.com/@flyskywhy/react-native-browser-polyfill/download/@flyskywhy/react-native-browser-polyfill-1.0.2.tgz",
+  "_shasum": "be5b127cbf2db8a393e7edb487617d5212dbbf5f",
+  "_spec": "@flyskywhy/react-native-browser-polyfill@^1.0.1",
+  "_where": "E:\\temp\\gcanvas_test1\\@flyskywhy\\react-native-gcanvas",
+  "author": {
+    "name": "Evan Bacon",
+    "email": "bacon@expo.io"
+  },
+  "bugs": {
+    "url": "https://github.com/flyskywhy/react-native-browser-polyfill/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Li Zheng",
+      "email": "flyskywhy@gmail.com",
+      "url": "https://github.com/flyskywhy"
+    }
+  ],
+  "dependencies": {
+    "buffer": "^5.6.0",
+    "fbjs": "^1.0.0",
+    "text-encoding": "^0.7.0",
+    "xmldom-qsa": "^1.0.3"
+  },
+  "deprecated": false,
+  "description": "Browser polyfill with native canvas 2d 3d for making React Native compatible with web libs like zdog (and pixi.js, three.js, phaser.js to be validated)",
+  "homepage": "https://github.com/flyskywhy/react-native-browser-polyfill#readme",
+  "keywords": [
+    "2d",
+    "3d",
+    "browser",
+    "document",
+    "dogz",
+    "dom",
+    "polyfill",
+    "react",
+    "react-native",
+    "shim",
+    "web",
+    "window",
+    "zdog"
+  ],
+  "license": "MIT",
+  "main": "src/index",
+  "name": "@flyskywhy/react-native-browser-polyfill",
+  "peerDependencies": {
+    "@flyskywhy/react-native-gcanvas": "^2.3.0",
+    "react": "^16.8.6",
+    "react-native": "*"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyskywhy/react-native-browser-polyfill.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "sideEffects": false,
+  "version": "1.0.2"
+}

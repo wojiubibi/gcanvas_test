@@ -1,5 +1,0 @@
-com/taobao/android/gcanvas/plugin/adapter/BuildConfig.java
- com.taobao.android.gcanvas.plugin.adapter.BuildConfig
-com/taobao/gcanvas/adapters/img/IGImageLoader.java
- com.taobao.gcanvas.adapters.img.IGImageLoader
- com.taobao.gcanvas.adapters.img.IGImageLoader$ImageCallback

@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      "@flyskywhy/react-native-gcanvas@2.3.7",
+      "E:\\temp\\gcanvas_test1"
+    ]
+  ],
+  "_from": "@flyskywhy/react-native-gcanvas@2.3.7",
+  "_id": "@flyskywhy/react-native-gcanvas@2.3.7",
+  "_inBundle": false,
+  "_integrity": "sha1-p2tZc2hAtMKTkw0+mvEZLuLXOAg=",
+  "_location": "/@flyskywhy/react-native-gcanvas",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@flyskywhy/react-native-gcanvas@2.3.7",
+    "name": "@flyskywhy/react-native-gcanvas",
+    "escapedName": "@flyskywhy%2freact-native-gcanvas",
+    "scope": "@flyskywhy",
+    "rawSpec": "2.3.7",
+    "saveSpec": null,
+    "fetchSpec": "2.3.7"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmmirror.com/@flyskywhy/react-native-gcanvas/download/@flyskywhy/react-native-gcanvas-2.3.7.tgz",
+  "_spec": "2.3.7",
+  "_where": "E:\\temp\\gcanvas_test1",
+  "bugs": {
+    "url": "https://github.com/flyskywhy/react-native-gcanvas/issues"
+  },
+  "dependencies": {
+    "@flyskywhy/react-native-browser-polyfill": "../react-native-browser-polyfill"
+  },
+  "description": "A C++ native canvas 2D/WebGL component based on gpu opengl glsl shader GCanvas",
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://Alipay/flyskywhy@gmail.com"
+    },
+    {
+      "type": "individual",
+      "url": "https://EthAddress/0xd02fa2738dcbba988904b5a9ef123f7a957dbb3e"
+    }
+  ],
+  "homepage": "https://github.com/flyskywhy/react-native-gcanvas#readme",
+  "keywords": [
+    "2d",
+    "3d",
+    "android",
+    "canvas",
+    "dogz",
+    "gcanvas",
+    "glsl",
+    "gpu",
+    "ios",
+    "native",
+    "particles-bg",
+    "proton",
+    "react-native",
+    "shader",
+    "opengl",
+    "webgl",
+    "zdog"
+  ],
+  "license": "Apache",
+  "main": "index",
+  "name": "react-native-gcanvas",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyskywhy/react-native-gcanvas.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.3.7"
+}
